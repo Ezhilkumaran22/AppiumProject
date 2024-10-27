@@ -1,0 +1,20 @@
+[
+	{
+		"name":	"Ezhil",
+		"gender":"male",
+		"country":"Bangladesh"
+		
+	},
+	
+	{
+		"name":	"Kumaran",
+		"gender":"male",
+		"country":"Bhutan"
+	},
+	
+	{
+		"name":	"Jaya",
+		"gender":"female",
+		"country":"Canada"
+	}
+]
